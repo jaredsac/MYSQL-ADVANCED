@@ -36,15 +36,15 @@ Beantwoord onderstaand vragen. Je mag hierbij de PhpMyAdmin interface gebruiken 
 
 Voor welk platform(en) zijn de onderstaande games uitgebracht?
 
-1. Final Fantasy VII
-2. Need for Speed Underground
-3. Mario Kart 8
-4. Grand Theft Auto IV
-5. Medal of Honor: Frontline
-6. Call of Duty: Advanced Warfare
-7. Microsoft Flight Simulator
-8. Link's Crossbow Training
-9. Tomb Raider
-10. God of War
+1. Final Fantasy VII id 66
+2. Need for Speed Underground 103
+3. Mario Kart 8 111
+4. Grand Theft Auto IV 52
+5. Medal of Honor: Frontline 115
+6. Call of Duty: Advanced Warfare 93
+7. Microsoft Flight Simulator 196
+8. Link's Crossbow Training 210
+9. Tomb Raider 230
+10. God of War 247
 
 ## Bronnen
